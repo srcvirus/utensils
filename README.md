@@ -8,4 +8,4 @@ monitor as a command line argument.
 ```x-sh
 user@host:~/util$ ./process_cpu_stat.sh chrome
 ```
-Press Ctrl + C to exit.
+Press `Ctrl + C` to exit.
