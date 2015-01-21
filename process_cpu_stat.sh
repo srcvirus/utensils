@@ -1,4 +1,6 @@
 #!/bin/bash
+# usage: ./process_cpu_stat.sh <process_name>
+
 process_name=$1
 refresh_interval=1  # 1 second.
 pid_list=`pgrep $process_name`
